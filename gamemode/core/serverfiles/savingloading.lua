@@ -8,6 +8,7 @@ function Player:NewGame()
 	self:AddItem("item_healthkit", 2)
 	self:AddItem("weapon_melee_axe", 1)
 	self:AddItem("weapon_ranged_junkpistol", 1)
+	self:AddItem("book_of_beginning",1)
 	--[[
 	self:AddItem("item_canspoilingmeat", 1)
 	self:AddItem("weapon_melee_fryingpan", 1)
