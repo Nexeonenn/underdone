@@ -1,0 +1,15 @@
+As you level up in Underdone you gain Skill Points.
+These can be used to unlock special upgrades.
+
+You can unlock these upgrades in the "Ability" tab
+When you have skill points to spend click this tab
+and find the skill you would like to spec into.
+
+Remember, it is wise to spec into upgrades that are
+for the class type you are playing as.
+It would be useless for a melee to spec into dexterity
+as dexterity increases the damage from bullets and not
+melee damage.
+
+Note: Agility is a good upgrade to spec into early
+on as it increases fire rate for both melee and gun.

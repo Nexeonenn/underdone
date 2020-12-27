@@ -1,0 +1,14 @@
+To craft items in Underdone you first need to know
+the knowledge of what you are crafting, you learn
+this knowledge through books that can be purchased
+from the Library or given to you in quests.
+
+Once you have read the book you can then select the
+"CRAFTING" option from the main Inventory window
+to the right of the Weight display.
+
+Click a recipe you wish to craft and follow the
+requirements to craft your item.
+
+Note: Some recipes require you to be standing near
+fire or the BBQ to craft.

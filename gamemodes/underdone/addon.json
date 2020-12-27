@@ -1,0 +1,10 @@
+{
+	"title"		:	"Underdone - RPG",
+	"type"		:	"gamemode",
+	"tags"		:	[ "roleplay", "fun" ],
+	"ignore"	:
+	[
+		"*.vcproj",
+		"*.svn*"
+	]
+}

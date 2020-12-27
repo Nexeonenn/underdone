@@ -1,0 +1,22 @@
+As a first time player you will be very weak.
+Your best bet is to talk to Dr. Kleiner first
+as he has some simple quests that you can do.
+
+To do this you need to locate him first. 
+He should be easy to spot in his lab coat. 
+Approach him and press the "USE" button when you are near him.
+
+As a level 1 you will have a small range of quests that you 
+can undertake from him. You can take more than one quest at 
+a time by clicking the white tick marker.
+
+For example, if we have taken the "Oil Drum" quest we need to go 
+find some oil for Dr. Kleiner. To find the oil look around the 
+area of the spawn camp as it is generally located nearby and will
+show up on your screen with "Oil Drum". Approach the Oil Drum 
+and press the "USE" key to pick up some oil. This will take 
+about five seconds, you will then have picked up some Oil. 
+Return back to Dr. Kleiner and press "USE" on him again.
+
+You should see the "Oil Drum" quest now has a solid green tick.
+Click this green tick to turn in the quest and gain your reward.

@@ -1,0 +1,17 @@
+To open your main menu containing the inventory, skills, 
+options, players and quests tabs press and hold the Q button, as you would in sandbox.
+
+You can navigate between the tabs using the icons in the 
+top right corner by clicking on them. The first tab is the 
+inventory tab which we will explain in more detail.
+
+The Inventory is divided up into four windows.
+
+The window on the left contains all the items you are 
+currently carrying on your person.
+
+The window on the right contains all the item slots 
+that you can equip items onto.
+
+The two windows below the right one list your current 
+stats and ammo you have equipped.

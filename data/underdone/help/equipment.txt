@@ -1,0 +1,21 @@
+To equip a weapon, for example the "Junky Pistol"
+You need to open your Inventory, from here you have several ways of equipping the "Junky Pistol"
+
+You can either:
+* Right click it and select "USE"
+* Double click it
+* Click and drag it onto the hot key menu at the bottom and 
+   press the corresponding number
+   
+Now that we have a weapon equipped we need to load it 
+with ammunition. This is done the same way as equipping 
+the weapon, equip the "Small Rounds" to load the
+ammunition in your "Junky Pistol".
+
+You are now locked and loaded.
+
+* Be aware that if you die there is a chance that you will 
+   lose your currently loaded ammunition.
+* If you disconnect you will lose all loaded ammunition.
+
+Only load enough ammunition for the task at hand.
