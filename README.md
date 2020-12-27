@@ -1,8 +1,14 @@
 ![Alt-текст](https://github.com/Nexeonenn/underdone/blob/master/gamemodes/underdone/logo.png)
 
+## ENGLISH
+Author of this version of [Polkm](https://github.com/Polkm/underdone).
+This is a remade version of the original mode for the latest version of Garry's mod
 
-Originally made by Polkm, this is a refactored version of the original gamemode, to work with GMOD 13.
+Credits to: Zeni, Q2F2, Etothepowerof26
 
-Credits to: Zeni, Q2F2, Etothepowerof26, me?
+## RUSSIAN
 
-Rewrite Count: 0.5
+Автор данной версии [Polkm](https://github.com/Polkm/underdone).
+Это переделанная версия оригинального режима для последней версии Garry's mod
+
+Особая благодарность : Zeni, Q2F2, Etothepowerof26
