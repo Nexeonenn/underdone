@@ -18,6 +18,9 @@ function GM:SetHotBarKey(KeyIcon, Item, NewKey)
 	else
 		KeyIcon:SetAlpha(255)
 	end
+	
+	cookie.Delete("ud_hotbarkeybinds_skils_" .. NewKey)
+	cookie.Set("ud_hotbarkeybinds_" .. NewKey, Item)
 	GAMEMODE.HotBarBoundKeys[NewKey] = {Panel = KeyIcon, Item = Item}
 end
 
@@ -41,7 +44,7 @@ local function AttemptLoad()
 		GAMEMODE.HotBarPanel = HotBarKeysPanel
 
 		HotBarKeysPanel:SetSize((HotBarIconSize + HotBarPadding) * Keys + HotBarPadding, HotBarIconSize + (HotBarPadding * 2))
-		HotBarKeysPanel:SetPos(300 + 20, ScrH() - HotBarKeysPanel:GetTall() - 10)
+		HotBarKeysPanel:SetPos(500 + 20, ScrH() - HotBarKeysPanel:GetTall() - 10)
 		HotBarKeysPanel.Paint = function() end
 		HotBarKeysPanel.KeysList = CreateGenericList(HotBarKeysPanel, HotBarPadding, true, false)
 		HotBarKeysPanel.KeysList:SetSize(HotBarKeysPanel:GetWide(), HotBarKeysPanel:GetTall())
